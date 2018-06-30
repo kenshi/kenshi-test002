@@ -1,0 +1,23 @@
+{
+  "name": "kenshi-test002",
+  "version": "1.0.0",
+  "description": "nodejs free module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenshi/kenshi-test002.git"
+  },
+  "keywords": [
+    "kenshi",
+    "test002"
+  ],
+  "author": "kenshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenshi/kenshi-test002/issues"
+  },
+  "homepage": "https://github.com/kenshi/kenshi-test002#readme"
+}
